@@ -1,4 +1,5 @@
-## Igor Konnov -- 
+## Igor Konnov
+
 Senior research scientist at [Interchain Foundation](https://interchain.io/)
 
 You can always reach me by writing a message on `igor.konnov` at `gmail.com`
