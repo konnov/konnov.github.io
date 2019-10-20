@@ -22,6 +22,15 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 ### Publications
 
  See my [publications at Veridis](https://team.inria.fr/veridis/konnov/papers/) 
+
+### PhD students
+
+ * [Jure Kukovec](https://forsyte.at/people/kukovec/)
+ * [Thanh-Hai Tran](https://forsyte.at/people/tran/)
+
+### Alumni
+
+ * [Dr. Marijana Lazić](https://www7.in.tum.de/~lazic/)
  
 ### Academic and non-academic profiles:
 
