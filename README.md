@@ -1,12 +1,11 @@
-## Igor Konnov
-
-*The meta-site of my academic sites, permanently under construction*
-
-![a photo](/img/igor-konnov17.png)
-
+## Igor Konnov -- 
 Senior research scientist at [Interchain Foundation](https://interchain.io/)
 
 You can always reach me by writing a message on `igor.konnov` at `gmail.com`
+
+![a photo](/img/igor-konnov17.png)
+
+*The meta-site of my academic sites, permanently under construction*
 
 ### Previous academic web pages:
 
