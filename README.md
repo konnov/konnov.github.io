@@ -12,7 +12,7 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 
  * [Inria Nancy -- Veridis Team](https://team.inria.fr/veridis/konnov/)
  * [TU Wien -- Forsyte](https://forsyte.at/people/konnov/)
- * [Moscow State University -- LVK](https://lvk.cs.msu.ru/) (my homepage did not survive the upgrade)
+ * [Moscow State University -- LVK](https://lvk.cs.msu.su/~konnov)
 
 ### Active open source projects
 
