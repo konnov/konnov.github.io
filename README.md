@@ -22,7 +22,8 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 ### Publications
 
  * See my [publications at Veridis](https://team.inria.fr/veridis/konnov/papers/) 
- * [Habilitation thesis](./doc/konnov-habil18.pdf) submitted at TU Wien in 2018
+ * [Habilitation thesis](./doc/konnov-habil18.pdf) submitted at TU Wien in 2018,
+    defended in November 2019.
 
 ### PhD students
 
