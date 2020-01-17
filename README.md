@@ -19,6 +19,10 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
  * [APALACHE](https://github.com/konnov/apalache): symbolic model checker for TLA+
  * [ByMC](https://github.com/konnov/bymc): parameterized model checker for threshold-guarded fault-tolerant distributed algorithms
 
+### Slides
+
+ * Tutorial at VMCAI Winter School 2020, [pdf](./talks/konnov-vmcai20-school.pdf)
+
 ### Publications
 
  * See my [publications at Veridis](https://team.inria.fr/veridis/konnov/papers/) 
