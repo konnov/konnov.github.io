@@ -1,6 +1,6 @@
 ## Igor Konnov
 
-Senior research scientist at [Interchain Foundation](https://interchain.io/)
+Senior research scientist at [Informal Systems](https://informal.systems)
 
 You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 
