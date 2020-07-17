@@ -1,6 +1,6 @@
 ## Igor Konnov
 
-Senior research scientist at [Informal Systems](https://informal.systems)
+Principal scientist at [Informal Systems](https://informal.systems)
 
 You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 
@@ -19,13 +19,19 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
  * [APALACHE](https://github.com/konnov/apalache): symbolic model checker for TLA+
  * [ByMC](https://github.com/konnov/bymc): parameterized model checker for threshold-guarded fault-tolerant distributed algorithms
 
-### Slides
+### Slides and Online Talks
+
+ * Tutorial at DISCOTEC/FORTE 2020,
+    [pdfs + video](https://www.discotec.org/2020/tutorials#parameterized-verification-with-byzantine-model-checker)
 
  * Tutorial at VMCAI Winter School 2020, [pdf](./talks/konnov-vmcai20-school.pdf)
 
 ### Publications
 
- * See my [publications at Veridis](https://team.inria.fr/veridis/konnov/papers/) 
+ * See my publications at [ORCID](https://orcid.org/0000-0001-6629-3377),
+    [dblp](https://dblp.org/pers/hd/k/Konnov_0001:Igor),
+    [Google Scholar](https://scholar.google.at/citations?user=K6OSiNYAAAAJ&hl=en),
+    or [Veridis page](https://team.inria.fr/veridis/konnov/papers/) 
  * [Habilitation thesis](./doc/konnov-habil19.pdf) submitted to
     the [Faculty of Inforfmatics](https://informatics.tuwien.ac.at/)
     of [TU Wien](https://tuwien.at) in 2018,
