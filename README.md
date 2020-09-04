@@ -26,6 +26,11 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 
  * Tutorial at VMCAI Winter School 2020, [pdf](./talks/konnov-vmcai20-school.pdf)
 
+### Conferences
+
+ * Co-Chair of [CONCUR 2020](https://concur2020.forsyte.at/) with
+ [Laura Kovacs](https://informatics.tuwien.ac.at/people/laura-kovacs)
+
 ### Publications
 
  * See my publications at [ORCID](https://orcid.org/0000-0001-6629-3377),
