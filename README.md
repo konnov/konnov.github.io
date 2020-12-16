@@ -73,4 +73,4 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 
 ### CV
 
-[Curriculum Vitae](/doc/konnov-cv.pdf), December 2019
+[Curriculum Vitae](/doc/konnov-cv.pdf), December 2020
