@@ -21,6 +21,18 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 
 ### Slides and Online Talks
 
+- [How TLA+ and Apalache Helped Us to Design the Tendermint Light Client](https://www.crowdcast.io/e/interchain-conversations-II/38).
+    Interchain Conversations 2020 (December 2020).
+
+- [Model-based testing with TLA+ and Apalache](https://youtu.be/aveoIMphzW8).
+  TLA+ Community Event 2020 (October 2020).
+
+- [Type inference for TLA+ in Apalache](https://youtu.be/hnp25hmCMN8).
+  TLA+ Community Event 2020 (October 2020).
+
+- [Formal Spec and Model Checking of the Tendermint Blockchain Synchronization Protocol](https://youtu.be/h2Ovc1KWlXM)
+  2nd Workshop on Formal Methods for Blockchains (July 2020).
+
  * Tutorial at DISCOTEC/FORTE 2020,
     [pdfs + video](https://www.discotec.org/2020/tutorials#parameterized-verification-with-byzantine-model-checker)
 
