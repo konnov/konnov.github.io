@@ -21,6 +21,10 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 
 ### Slides and Online Talks
 
+- [Apalache: symbolic model checker for TLA+](https://www.youtube.com/watch?v=Ml7d_3vlH88).
+  Extended version of the talk at TLA+ tutorial, co-located with DISC 2021
+  (October 2021).
+
 - [How TLA+ and Apalache Helped Us to Design the Tendermint Light Client](https://www.crowdcast.io/e/interchain-conversations-II/38).
     Interchain Conversations 2020 (December 2020).
 
