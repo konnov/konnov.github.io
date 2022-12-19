@@ -3,6 +3,7 @@
 Principal scientist at [Informal Systems](https://informal.systems)
 
 You can always reach me by writing a message on `igor.konnov` at `gmail.com`
+or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
 ![a photo](/img/igor-konnov17.png)
 
