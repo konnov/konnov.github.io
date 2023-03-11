@@ -17,8 +17,20 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
 ### Active open source projects
 
- * [APALACHE](https://github.com/konnov/apalache): symbolic model checker for TLA+
- * [ByMC](https://github.com/konnov/bymc): parameterized model checker for threshold-guarded fault-tolerant distributed algorithms
+ * [Quint](https://github.com/informalsystems/apalache):
+   Executable specification language
+
+ * [Apalache](https://github.com/konnov/apalache):
+   Symbolic model checker for TLA+
+
+### Past research & open source projects
+
+ * [ByMC](https://github.com/konnov/bymc): parameterized model checker for threshold-guarded
+   fault-tolerant distributed algorithms
+
+ * The project [ICT-103
+   Apalache](https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN)
+   supported by the Vienna Science and Technology Fund
 
 ### Slides and Online Talks
 
