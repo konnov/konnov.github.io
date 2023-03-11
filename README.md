@@ -21,7 +21,7 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
    Executable specification language
 
  * [Apalache](https://github.com/konnov/apalache):
-   Symbolic model checker for TLA+
+   Symbolic model checker for TLA+ and Quint
 
 ### Past research & open source projects
 
