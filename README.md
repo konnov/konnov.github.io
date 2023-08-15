@@ -90,4 +90,4 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
 ### CV
 
-[Curriculum Vitae](/doc/konnov-cv.pdf), December 2020
+[Curriculum Vitae](/doc/konnov-cv.pdf), August 2023
