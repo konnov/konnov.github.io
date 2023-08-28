@@ -3,7 +3,8 @@
 This is the material for the lectures read by Igor Konnov at
 [VTSA'23][].
 
-To follow the lecture, visit the [Google slides][].
+To follow the lecture, visit the [Google slides][] and the examples in
+[Quint sandbox][].
 
 To experiment with the tools, please install the following:
 
@@ -31,4 +32,5 @@ Apalache and Quint.
 [Google slides]: https://docs.google.com/presentation/d/1sEM4YM3bKmVaG-yJVqZV8z0VyhE7s7dxQe_jKDruYC0/edit?usp=sharing
 [Quint]: https://github.com/informalsystems/quint/
 [Quint plugin]: https://marketplace.visualstudio.com/items?itemName=informal.quint-vscode
+[Quint sandbox]: https://github.com/informalsystems/quint-sandbox
 [Microsoft LiveShare Plugin]: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
