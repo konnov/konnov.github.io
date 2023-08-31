@@ -3,7 +3,7 @@
 This is the material for the lectures read by Igor Konnov at
 [VTSA'23][].
 
-To follow the lecture, visit the [Google slides][] and the examples in
+To follow the lecture, visit the [Slides][] and the examples in
 [Quint sandbox][].
 
 To experiment with the tools, please install the following:
@@ -29,7 +29,7 @@ industry. We also show the practical applications of the tooling provided by
 Apalache and Quint.
 
 [VTSA'23]: https://resources.mpi-inf.mpg.de/departments/rg1/conferences/vtsa23/
-[Google slides]: https://docs.google.com/presentation/d/1sEM4YM3bKmVaG-yJVqZV8z0VyhE7s7dxQe_jKDruYC0/edit?usp=sharing
+[Slides]: ./vtsa23/VTSA-lectures-2023-Igor.pdf
 [Quint]: https://github.com/informalsystems/quint/
 [Quint plugin]: https://marketplace.visualstudio.com/items?itemName=informal.quint-vscode
 [Quint sandbox]: https://github.com/informalsystems/quint-sandbox
