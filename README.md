@@ -32,7 +32,12 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
    Apalache](https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN)
    supported by the Vienna Science and Technology Fund
 
-### Slides and Online Talks
+### Lecture Slides and Talks
+
+- Lectures on Quint, TLA+, and Apalache at the VTSA'23 summer school:
+  [lecture material](https://konnov.github.io/vtsa23/)
+
+- [Short talk on Quint](https://www.youtube.com/watch?v=OZIX8rs-kOA&t=806s)
 
 - [Apalache: symbolic model checker for TLA+](https://www.youtube.com/watch?v=Ml7d_3vlH88).
   Extended version of the talk at TLA+ tutorial, co-located with DISC 2021
@@ -53,7 +58,7 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
  * Tutorial at DISCOTEC/FORTE 2020,
     [pdfs + video](https://www.discotec.org/2020/tutorials#parameterized-verification-with-byzantine-model-checker)
 
- * Tutorial at VMCAI Winter School 2020, [pdf](./talks/konnov-vmcai20-school.pdf)
+ * Tutorial at VMCAI Winter School 2020: [pdf](./vmcai20/konnov-vmcai20-school.pdf)
 
 ### Conferences
 
