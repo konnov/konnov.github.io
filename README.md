@@ -34,8 +34,8 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
 ### Lecture Slides and Talks
 
-- Lectures on Quint, TLA+, and Apalache at the VTSA'23 summer school:
-  [lecture material](https://konnov.github.io/vtsa23/) (August 2023)
+- Lectures on Quint, TLA+, and Apalache at the VTSA'23 summer school.
+  [Lecture material](https://konnov.github.io/vtsa23/) (August 2023)
 
 - [Short talk on Quint](https://www.youtube.com/watch?v=OZIX8rs-kOA&t=806s) (June 2023)
 
