@@ -79,10 +79,10 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 ### PhD students
 
  * [Jure Kukovec](https://forsyte.at/people/kukovec/)
- * [Thanh-Hai Tran](https://forsyte.at/people/tran/)
 
 ### Alumni
 
+ * [Dr. Thanh-Hai Tran](https://forsyte.at/people/tran/)
  * [Dr. Marijana Lazić](https://www7.in.tum.de/~lazic/)
  
 ### Academic and non-academic profiles:
