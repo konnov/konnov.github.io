@@ -1,19 +1,19 @@
 ## Igor Konnov
 
-Principal scientist at [Informal Systems](https://informal.systems)
-
 You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
 ![a photo](/img/igor-konnov23.png)
 
-*The meta-site of my academic sites, permanently under construction*
+### Previous positions:
 
-### Previous academic web pages:
-
- * [Inria Nancy -- Veridis Team](https://team.inria.fr/veridis/konnov/)
- * [TU Wien -- Forsyte](https://forsyte.at/people/konnov/)
- * [Moscow State University -- LVK](https://lvk.cs.msu.su/~konnov)
+ * Principal Research Scientist at [Informal Systems](https://informal.systems)
+ * Researcher at
+   [Inria Nancy -- Veridis Team](https://team.inria.fr/veridis/konnov/)
+ * Researcher and assistant professor at
+   [TU Wien -- Forsyte](https://forsyte.at/people/konnov/)
+ * Researcher at
+   [Lomonosov Moscow State University](https://www.msu.ru/en/index.html)
 
 ### Active open source projects
 
@@ -95,4 +95,4 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
 ### CV
 
-[Curriculum Vitae](/doc/konnov-cv.pdf), August 2023
+[Curriculum Vitae](/doc/konnov-cv.pdf), November 2023
