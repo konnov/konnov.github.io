@@ -5,31 +5,42 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
 ![a photo](/img/igor-konnov23.png)
 
+### Current
+
+Starting 2024, I will be an independent software engineering consultant and formal
+methods research scientist. Let me know, if you have projects that require following
+expertise:
+
+ - Specification, simulation, and verification of distributed protocols, e.g.,
+   in [TLA+][] or [Quint][]
+
+ - Testing of distributed protocols, e.g., blockchains and smart contracts
+
+ - Security audits, e.g., Solidity, CosmWasm, Cosmos
+
 ### Previous positions:
 
- * Principal Research Scientist at [Informal Systems](https://informal.systems)
- * Researcher at
-   [Inria Nancy -- Veridis Team](https://team.inria.fr/veridis/konnov/)
- * Researcher and assistant professor at
-   [TU Wien -- Forsyte](https://forsyte.at/people/konnov/)
- * Researcher at
-   [Lomonosov Moscow State University](https://www.msu.ru/en/index.html)
+ * Principal Research Scientist at [Informal Systems][] 2020-2023
+ * Senior Research Scientist at [Interchain Foundation][] 2019
+ * Researcher at [Inria Nancy -- Veridis Team][] 2018-2019
+ * Researcher and assistant professor at [TU Wien -- Forsyte][] 2011-2018
+ * PhD student and Researcher at [Lomonosov Moscow State University][] 2003-2011
 
-### Active open source projects
+### Open source projects
 
- * [Quint](https://github.com/informalsystems/apalache):
-   Executable specification language
+ Started and managed by me:
 
- * [Apalache](https://github.com/konnov/apalache):
-   Symbolic model checker for TLA+ and Quint
+ * [Quint][] Executable specification language (since 2021)
+
+ * [Apalache][]:
+   Symbolic model checker for TLA+ and Quint (since 2016)
 
 ### Past research & open source projects
 
- * [ByMC](https://github.com/konnov/bymc): parameterized model checker for threshold-guarded
+ * [ByMC][]: parameterized model checker for threshold-guarded
    fault-tolerant distributed algorithms
 
- * The project [ICT-103
-   Apalache](https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN)
+ * The project [ICT-103 Apalache][]
    supported by the Vienna Science and Technology Fund
 
 ### Lecture Slides and Talks
@@ -96,3 +107,14 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 ### CV
 
 [Curriculum Vitae](/doc/konnov-cv.pdf), November 2023
+
+[TLA+]: https://lamport.azurewebsites.net/tla/tla.html
+[Quint]: https://github.com/informalsystems/quint
+[Informal Systems]: https://informal.systems
+[Inria Nancy -- Veridis Team]: https://team.inria.fr/veridis/konnov/
+[Interchain Foundation]: https://interchain.io/
+[TU Wien -- Forsyte]: https://forsyte.at/people/konnov/
+[Lomonosov Moscow State University]: https://www.msu.ru/en/index.html
+[Apalache]: https://github.com/informalsystems/apalache
+[ByMC]: https://github.com/konnov/bymc
+[ICT-103 Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN
