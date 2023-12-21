@@ -7,7 +7,8 @@ or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
 {% include youtube.html id="OZIX8rs-kOA" %}
 
-### Current
+<br>
+<br>
 
 Starting 2024, I will be an independent software engineering consultant and formal
 methods research scientist. Let me know, if you have projects that require following
