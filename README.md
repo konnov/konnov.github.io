@@ -3,7 +3,9 @@
 You can always reach me by writing a message on `igor.konnov` at `gmail.com`
 or <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>.
 
-![a photo](/img/igor-konnov23.png)
+<!-- [![My talk on Quint at Gateway to Cosmos](https://img.youtube.com/vi/OZIX8rs-kOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=OZIX8rs-kOA) -->
+
+{% include youtube.html id="OZIX8rs-kOA" %}
 
 ### Current
 
