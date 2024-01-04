@@ -34,10 +34,10 @@ expertise:
 
  Started and managed by me:
 
- * [Quint][] Executable specification language (since 2021)
+ * [Quint][] Executable specification language (2021-2023)
 
  * [Apalache][]:
-   Symbolic model checker for TLA+ and Quint (since 2016)
+   Symbolic model checker for TLA+ and Quint (2016-2023)
 
 ### Past research & open source projects
 
