@@ -11,6 +11,8 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`,
 <br>
 <br>
 
+**New:** I have started the blog [Protocols Made Fun][] :bowtie:
+
 Starting 2024, I will be an independent software engineering consultant and formal
 methods research scientist. Let me know, if you have projects that require following
 expertise:
@@ -122,3 +124,4 @@ expertise:
 [Apalache]: https://github.com/informalsystems/apalache
 [ByMC]: https://github.com/konnov/bymc
 [ICT-103 Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN
+[Protocols Made Fun]: https://konnov.github.io/protocols-made-fun/
