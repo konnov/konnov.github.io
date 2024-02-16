@@ -11,11 +11,10 @@ You can always reach me by writing a message on `igor.konnov` at `gmail.com`,
 <br>
 <br>
 
-**New:** I have started the blog [Protocols Made Fun][] :bowtie:
+**[2024]** I have started the blog [Protocols Made Fun][] :bowtie:
 
-Starting 2024, I will be an independent software engineering consultant and formal
-methods research scientist. Let me know, if you have projects that require following
-expertise:
+**[2024]** I am an independent security and formal methods research scientist.
+Let me know, if you have projects that require following expertise:
 
  - Specification, simulation, and verification of distributed protocols, e.g.,
    in [TLA+][] or [Quint][]
@@ -112,7 +111,7 @@ expertise:
 
 ### CV
 
-[Curriculum Vitae](/doc/konnov-cv.pdf), November 2023
+[Curriculum Vitae](/doc/konnov-cv.pdf), February 2024
 
 [TLA+]: https://lamport.azurewebsites.net/tla/tla.html
 [Quint]: https://github.com/informalsystems/quint
