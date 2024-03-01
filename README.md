@@ -123,4 +123,4 @@ Let me know, if you have projects that require following expertise:
 [Apalache]: https://github.com/informalsystems/apalache
 [ByMC]: https://github.com/konnov/bymc
 [ICT-103 Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN
-[Protocols Made Fun]: https://konnov.github.io/protocols-made-fun/
+[Protocols Made Fun]: https://protocols-made-fun.com
