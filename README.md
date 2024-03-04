@@ -113,6 +113,8 @@ Let me know, if you have projects that require following expertise:
 
 [Curriculum Vitae](/doc/konnov-cv.pdf), February 2024
 
+[Impressum][]
+
 [TLA+]: https://lamport.azurewebsites.net/tla/tla.html
 [Quint]: https://github.com/informalsystems/quint
 [Informal Systems]: https://informal.systems
@@ -124,3 +126,4 @@ Let me know, if you have projects that require following expertise:
 [ByMC]: https://github.com/konnov/bymc
 [ICT-103 Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN
 [Protocols Made Fun]: https://protocols-made-fun.com
+[Impressum]: ./impressum.md
