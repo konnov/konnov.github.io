@@ -1,10 +1,13 @@
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-BVH4V6TQV9"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  if(readCookie('cookie-notice-dismissed')=='true') {
+    // we have the user's consent to show cookies
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
 
-  gtag('config', 'G-BVH4V6TQV9');
+    gtag('config', 'G-BVH4V6TQV9');
+  }
 </script>
 
