@@ -131,4 +131,4 @@ Let me know, if you have projects that require following expertise:
 [ICT-103 Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN
 [Protocols Made Fun]: https://protocols-made-fun.com
 [Impressum]: ./impressum.md
-[Datenschutz]: ./datenshutz.md
+[Datenschutz]: ./datenschutz.md
