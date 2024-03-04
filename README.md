@@ -115,7 +115,8 @@ Let me know, if you have projects that require following expertise:
 
 ### Required sections
 
-[Impressum][] | [Datenschutz][]
+ * [Impressum][]
+ * [Datenschutz][]
 
 
 [TLA+]: https://lamport.azurewebsites.net/tla/tla.html
