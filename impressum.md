@@ -21,4 +21,3 @@ Gewerbeordnung: www.ris.bka.gv.at. Sie können allfällige Beschwerde auch an di
 oben angegebene E-Mail-Adresse richten.
 
 [GISA]: https://www.gisa.gv.at/
-[Datenschutz]: ./datenschutz.md
