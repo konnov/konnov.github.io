@@ -1,6 +1,6 @@
 # Impressum
 
-Igor Konnov
+Einzelunternehmen Igor Konnov
 
 Freies Gewerbe: Dienstleistungen in der automatischen Datenverarbeitung und
 Informationstechnik
@@ -13,14 +13,12 @@ UID-Nr: ATU80327638
 
 Behörde: Magistrat der Stadt Wien
 
+Mitglied der WK Wien
+
 Verbraucher haben die Möglichkeit, Beschwerden an die
 Online-Streitbeilegungsplattform der EU zu richten: http://ec.europa.eu/odr.
 Gewerbeordnung: www.ris.bka.gv.at. Sie können allfällige Beschwerde auch an die
 oben angegebene E-Mail-Adresse richten.
-
-# Datenschutz
-
-[Datenschutz][]
 
 [GISA]: https://www.gisa.gv.at/
 [Datenschutz]: ./datenschutz.md
