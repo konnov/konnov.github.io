@@ -1,6 +1,8 @@
 ## Igor Konnov
 
-You can always reach me by writing a message on `igor.konnov` at `gmail.com`,
+You can always reach me by writing a message on
+`igor` &#U+0040; `konnov.phd` or
+`igor.konnov` &#U+0040; `gmail.com`,
 <a rel="me" href="https://fosstodon.org/@konnov">Mastodon</a>,
 <a rel="also-me" href="https://x.com/k0nn0v">X-Twitter</a>.
 
