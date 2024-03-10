@@ -7,6 +7,10 @@ Informationstechnik
 
 Kontaktdaten: igor+impressum@konnov.phd
 
+Anschrift:
+
+<img id="e" src="img/x.png"><img id="r" src="img/x.png"><img id="s" src="img/x.png"><img id="f" src="img/x.png"><img id="a" src="img/x.png"><img id="h" src="img/x.png"><img id="1" src="img/x.png"><img id="h" src="img/x.png"><img id="a" src="img/x.png">
+
 1230 Wien, Austria, weitere Daten auf [GISA][].
 
 UID-Nr: ATU80327638
