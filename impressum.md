@@ -2,22 +2,45 @@
 
 Einzelunternehmen Igor Konnov
 
-Freies Gewerbe: Dienstleistungen in der automatischen Datenverarbeitung und
+Unternehmensgegenstand:
+Dienstleistungen in der automatischen Datenverarbeitung und
 Informationstechnik
 
-Kontaktdaten: igor+impressum@konnov.phd
+Email: igor+impressum@konnov.phd
 
-Anschrift:
+<table>
+<tr>
+<td>
+  Anschrift:
+</td>
+<td>
+  <img id="e" src="img/x.png">
+  <img id="r" src="img/x.png">
+  <img id="s" src="img/x.png">
+  <img id="f" src="img/x.png">
+  <img id="a" src="img/x.png">
+  <img id="h" src="img/x.png">
+  <img id="1" src="img/x.png">
+  <img id="i" src="img/x.png">
+  <img id="j" src="img/x.png">
+</td>
+<td>
+  <a id="zgn" href="impressum.html?zeigen=1">(zeigen...)</a>
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+  1230 Wien, Österreich
+</td>
+</tr>
+</table>
 
-<img id="e" src="img/x.png"><img id="r" src="img/x.png"><img id="s" src="img/x.png"><img id="f" src="img/x.png"><img id="a" src="img/x.png"><img id="h" src="img/x.png"><img id="1" src="img/x.png"><img id="h" src="img/x.png"><img id="a" src="img/x.png">
+UID: ATU80327638
 
-1230 Wien, Austria, weitere Daten auf [GISA][].
+Mitglied WKW, WKO
 
-UID-Nr: ATU80327638
-
-Behörde: Magistrat der Stadt Wien
-
-Mitglied der WK Wien
+Aufsichtsbehörde/Gewerbebehörde: Magistratisches Bezirksamt der Stadt Wien 23
 
 Verbraucher haben die Möglichkeit, Beschwerden an die
 Online-Streitbeilegungsplattform der EU zu richten: http://ec.europa.eu/odr.
