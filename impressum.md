@@ -7,6 +7,7 @@ Dienstleistungen in der automatischen Datenverarbeitung und
 Informationstechnik
 
 Email: igor+impressum@konnov.phd
+Tel.: (+43) 677 61107903
 
 <table>
 <tr>
