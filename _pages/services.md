@@ -7,8 +7,8 @@ title: Services
 
 Let me know, if you have projects that require following expertise:
 
- - Specification, simulation, and verification of distributed protocols, e.g.,
-   in [TLA+][] or [Quint][]
+ - Specification, simulation, and verification of distributed protocols,
+   e.g., in [TLA+][] or [Quint][]
 
  - Testing of distributed protocols, e.g., blockchains and smart contracts
 

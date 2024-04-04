@@ -2,7 +2,6 @@
 title: "Solarkraft"
 excerpt: "A runtime monitoring tool for Stellar Soroban, powered by TLA+ and Apalache"
 header:
-  #image: /assets/images/solarkraft-stellar-activation.png
   teaser: /assets/images/solarkraft-stellar-activation350.png
 sidebar:
   - image: /assets/images/solarkraft-stellar-activation350.png
