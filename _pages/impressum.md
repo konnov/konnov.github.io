@@ -1,4 +1,9 @@
-# Impressum
+---
+layout: single
+author_profile: false
+permalink: /impressum/
+title: Impressum
+---
 
 Einzelunternehmen Igor Konnov
 
@@ -7,6 +12,7 @@ Dienstleistungen in der automatischen Datenverarbeitung und
 Informationstechnik
 
 Email: igor+impressum@konnov.phd
+
 Tel.: (+43) 677 61107903
 
 <table>
@@ -15,18 +21,18 @@ Tel.: (+43) 677 61107903
   Anschrift:
 </td>
 <td>
-  <img id="e" src="img/x.png">
-  <img id="r" src="img/x.png">
-  <img id="s" src="img/x.png">
-  <img id="f" src="img/x.png">
-  <img id="a" src="img/x.png">
-  <img id="h" src="img/x.png">
-  <img id="1" src="img/x.png">
-  <img id="i" src="img/x.png">
-  <img id="j" src="img/x.png">
+  <img id="e" src="/assets/images/x.png">
+  <img id="r" src="/assets/images/x.png">
+  <img id="s" src="/assets/images/x.png">
+  <img id="f" src="/assets/images/x.png">
+  <img id="a" src="/assets/images/x.png">
+  <img id="h" src="/assets/images/x.png">
+  <img id="1" src="/assets/images/x.png">
+  <img id="i" src="/assets/images/x.png">
+  <img id="j" src="/assets/images/x.png">
 </td>
 <td>
-  <a id="zgn" href="impressum.html?zeigen=1">(zeigen...)</a>
+  <a id="zgn" href="/impressum?zeigen=1">(zeigen...)</a>
 </td>
 </tr>
 <tr>

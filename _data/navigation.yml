@@ -1,0 +1,27 @@
+# main links
+main:
+  - title: "Talks"
+    url: ./talks
+  - title: "Blog"
+    url: https://protocols-made-fun.com
+  - title: "Research"
+    url: ./research
+  - title: "CV"
+    url: /doc/konnov-cv.pdf
+  - title: "Datenschutz"
+    url: ./datenschutz
+  - title: "Impressum"
+    url: ./impressum
+# solarkraft
+solarkraft:
+  - title: "Github Repo"
+    url: https://github.com/freespek/solarkraft
+# apalache
+apalache:
+  - title: "Github Repo"
+    url: https://github.com/informalsystems/apalache
+# quint
+quint:
+  - title: "Github Repo"
+    url: https://github.com/informalsystems/quint
+

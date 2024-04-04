@@ -1,4 +1,9 @@
-# Datenschutz
+---
+layout: single
+author_profile: false
+permalink: /datenschutz/
+title: Datenschutz
+---
 
 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc.
 („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf

@@ -1,5 +1,7 @@
 ## Igor Konnov
 
+*Independent security and formal methods researcher*
+
 You can always reach me by writing a message on
 `igor` *at* `konnov`.`phd` or
 `igor.konnov` *at* `gmail`.`com`,
@@ -13,9 +15,14 @@ You can always reach me by writing a message on
 <br>
 <br>
 
-**[2024]** I have started the blog [Protocols Made Fun][] :bowtie:
+### News in 2024
 
-**[2024]** I am an independent security and formal methods research scientist.
+Together with my ex-Informal peers, we just received an award from the Stellar
+Community Fund! :rocket: Check out our project here: [Solarkraft][]. Big thanks
+to the [Stellar Community Fund][] for the support!
+
+Check my new blog called [Protocols Made Fun][].
+
 Let me know, if you have projects that require following expertise:
 
  - Specification, simulation, and verification of distributed protocols, e.g.,
@@ -25,22 +32,24 @@ Let me know, if you have projects that require following expertise:
 
  - Security audits, e.g., Solidity, CosmWasm, Cosmos
 
-### Previous positions:
+### Open source projects
+
+ Started and managed by me:
+
+ * [Solarkraft][]: a runtime monitoring tool for Soroban (2024-now)
+
+ * [Quint][]: Executable specification language (2021-2023)
+
+ * [Apalache][]:
+   Symbolic model checker for TLA+ and Quint (2016-2023)
+
+### Past positions:
 
  * Principal Research Scientist at [Informal Systems][] 2020-2023
  * Senior Research Scientist at [Interchain Foundation][] 2019
  * Researcher at [Inria Nancy -- Veridis Team][] 2018-2019
  * Researcher and assistant professor at [TU Wien -- Forsyte][] 2011-2018
  * PhD student and Researcher at [Lomonosov Moscow State University][] 2003-2011
-
-### Open source projects
-
- Started and managed by me:
-
- * [Quint][] Executable specification language (2021-2023)
-
- * [Apalache][]:
-   Symbolic model checker for TLA+ and Quint (2016-2023)
 
 ### Past research & open source projects
 
@@ -78,11 +87,6 @@ Let me know, if you have projects that require following expertise:
 
  * Tutorial at VMCAI Winter School 2020: [pdf](./vmcai20/konnov-vmcai20-school.pdf)
 
-### Conferences
-
- * Co-Chair of [CONCUR 2020](https://concur2020.forsyte.at/) with
- [Laura Kovacs](https://informatics.tuwien.ac.at/people/laura-kovacs)
-
 ### Publications
 
  * See my publications at [ORCID](https://orcid.org/0000-0001-6629-3377),
@@ -93,6 +97,11 @@ Let me know, if you have projects that require following expertise:
     the [Faculty of Inforfmatics](https://informatics.tuwien.ac.at/)
     of [TU Wien](https://tuwien.at) in 2018,
     defended in October 2019.
+
+### Conferences
+
+ * Co-Chair of [CONCUR 2020](https://concur2020.forsyte.at/) with
+ [Laura Kovacs](https://informatics.tuwien.ac.at/people/laura-kovacs)
 
 ### PhD students
 
@@ -129,8 +138,10 @@ Let me know, if you have projects that require following expertise:
 [TU Wien -- Forsyte]: https://forsyte.at/people/konnov/
 [Lomonosov Moscow State University]: https://www.msu.ru/en/index.html
 [Apalache]: https://github.com/informalsystems/apalache
+[Solarkraft]: https://github.com/freespek/solarkraft
 [ByMC]: https://github.com/konnov/bymc
 [ICT-103 Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN
 [Protocols Made Fun]: https://protocols-made-fun.com
 [Impressum]: ./impressum.md
 [Datenschutz]: ./datenschutz.md
+[Stellar Community Fund]: https://communityfund.stellar.org/
