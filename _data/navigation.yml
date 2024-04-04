@@ -20,4 +20,8 @@ solarkraft:
 apalache:
   - title: "Github Repo"
     url: https://github.com/informalsystems/apalache
+# quint
+quint:
+  - title: "Github Repo"
+    url: https://github.com/informalsystems/quint
 

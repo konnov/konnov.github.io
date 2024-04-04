@@ -14,6 +14,8 @@ sidebar:
   - text: "Product owner"
   - title: "Language"
     text: "Scala"
+  - title: "License"
+    text: "Apache 2.0"
 ---
 
 Perhaps, the most concise summary of Apalache can be found on [Leslie

@@ -14,13 +14,15 @@ sidebar:
     text: "Leading the team of independent researchers and developing the tool"
   - title: "Language"
     text: "Rust"
+  - title: "License"
+    text: "Apache 2.0"
 #gallery:
 #  - url: /assets/images/unsplash-gallery-image-1.jpg
 #    image_path: assets/images/unsplash-gallery-image-1-th.jpg
 #    alt: "placeholder image 1"
 ---
 
-Solarkraft is a runtime monitoring tool for [Soroban][], powered by
+Solarkraft is a runtime monitoring tool for Stellar [Soroban][], powered by
 [TLA+][] and [Apalache][].
 
 The project is in the boostrapping phase now. Preparing for Warp 5.

@@ -13,6 +13,10 @@ sidebar:
   - text: "Rust/Cosmwasm"
   - text: "Golang/Cosmos SDK"
   - text: "TLA+"
+  - title: "Platforms"
+    text: "Ethereum"
+  - text: "Stellar"
+  - text: "Cosmos"
 ---
 
 I have a proven track record of submitting **valid** high and medium
