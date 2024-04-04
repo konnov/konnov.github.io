@@ -1,4 +1,9 @@
-# Impressum
+---
+layout: single
+author_profile: false
+permalink: /impressum/
+title: Impressum
+---
 
 Einzelunternehmen Igor Konnov
 

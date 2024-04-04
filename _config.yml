@@ -1,6 +1,62 @@
+domain: konnov.phd
+url: https://konnov.phd
+title: Igor Konnov's website
+author:
+  name: Igor Konnov
+  bio: "**Independent** security and formal methods **researcher**"
+  avatar: "/assets/images/igor-konnov23.png"
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
  - jekyll-remote-theme
  - jekyll-include-cache
  - jemoji
-google_analytics: G-BVH4V6TQV9
+encoding: utf-8
+
+# Analytics
+analytics:
+  provider: google-gtag # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id: G-BVH4V6TQV9
+    anonymize_ip: true # true, false (default)
+
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/        
+
+# Conversion
+markdown: kramdown
+highlighter: rouge        
+
+# Defaults
+defaults:
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: false  # the twitter, linkedin, facebook nonsense
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single
+#      author_profile: true
+#      read_time: true
+#      comments: # true
+#      share: true
+#      related: true
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/konnov
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages

@@ -1,0 +1,16 @@
+# main links
+main:
+  - title: "Services"
+    url: ./services
+  - title: "Talks"
+    url: ./talks
+  - title: "Blog"
+    url: https://protocols-made-fun.com
+  - title: "Datenschutz"
+    url: ./datenschutz
+  - title: "Impressum"
+    url: ./impressum
+# solarkraft
+solarkraft:
+  - title: "Github Repo"
+    url: https://github.com/freespek/solarkraft
