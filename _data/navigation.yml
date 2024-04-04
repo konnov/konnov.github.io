@@ -6,6 +6,10 @@ main:
     url: ./talks
   - title: "Blog"
     url: https://protocols-made-fun.com
+  - title: "Research"
+    url: ./research
+  - title: "CV"
+    url: /doc/konnov-cv.pdf
   - title: "Datenschutz"
     url: ./datenschutz
   - title: "Impressum"

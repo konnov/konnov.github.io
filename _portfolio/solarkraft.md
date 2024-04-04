@@ -5,11 +5,11 @@ header:
   #image: /assets/images/solarkraft-stellar-activation.png
   teaser: /assets/images/solarkraft-stellar-activation350.png
 sidebar:
-  - text: Website
+  - image: /assets/images/solarkraft-stellar-activation350.png
+    image_alt: "logo"
+  - title: Website
     nav: solarkraft
   - title: "Role"
-    image: /assets/images/solarkraft-stellar-activation350.png
-    image_alt: "logo"
     text: "Team Lead"
   - title: "Responsibilities"
     text: "Leading the team of independent researchers and developing the tool"
