@@ -12,16 +12,12 @@ sidebar:
     text: "Team Lead"
   - title: "Responsibilities"
     text: "Leading the team of independent researchers and developing the tool"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  - title: "Language"
+    text: "Rust"
+#gallery:
+#  - url: /assets/images/unsplash-gallery-image-1.jpg
+#    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+#    alt: "placeholder image 1"
 ---
 
 Solarkraft is a runtime monitoring tool for [Soroban][], powered by

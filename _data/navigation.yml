@@ -16,3 +16,8 @@ main:
 solarkraft:
   - title: "Github Repo"
     url: https://github.com/freespek/solarkraft
+# apalache
+apalache:
+  - title: "Github Repo"
+    url: https://github.com/informalsystems/apalache
+

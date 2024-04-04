@@ -6,10 +6,14 @@ header:
 sidebar:
   - image: /assets/images/apalache.png
     image_alt: "logo"
+  - title: Website
+    nav: apalache
   - title: "Roles"
     text: "Principal investigator"
   - text: "Project lead"
   - text: "Product owner"
+  - title: "Language"
+    text: "Scala"
 ---
 
 Perhaps, the most concise summary of Apalache can be found on [Leslie
@@ -26,10 +30,16 @@ I started the [research project on Apalache][] at TU Wien in 2016, after
 receiving the grant of 539k EUR from [Vienna Science and Technology
 Fund][]. In 2018, I continued research on Apalache at [VeriDis][], Inria
 Nancy. From 2019 to 2023, I was leading industrial adoption of Apalache at
-Interchain Foundation and Informal Systems. Many researchers and engineers
-have contributed to Apalache, including: [Thanh Hai Tran][], [Shon
-Feder][], [Jure Kukovec][], [Gabriela Mafra][], [Rodrigo Otoni][], [Thomas
-Pani][], [Andrey Kupriyanov][], and [Philip Offtermatt][].
+[Interchain Foundation][] and [Informal Systems][]. Many researchers and
+engineers have contributed to Apalache, including: [Thanh Hai Tran][],
+[Shon Feder][], [Jure Kukovec][], [Gabriela Mafra][], [Rodrigo Otoni][],
+[Thomas Pani][], [Andrey Kupriyanov][], and [Philip Offtermatt][].
+
+Apalache is currently hosted at Informal Systems.
+
+<!-- [![Apalache Tutorial](https://img.youtube.com/vi/NXLJoUKJnDQ/maxresdefault.jpg)](https://www.youtube.com/NXLJoUKJnDQ?t=5596) -->
+
+{% include youtube.html id="NXLJoUKJnDQ" %}
 
 
 [Leslie Lamport's page on TLA<sup>+</sup>]: https://lamport.azurewebsites.net/tla/tools.html
@@ -45,3 +55,6 @@ Pani][], [Andrey Kupriyanov][], and [Philip Offtermatt][].
 [Andrey Kupriyanov]: https://dblp.org/pid/05/7915.html
 [Shon Feder]: http://shonfeder.net/
 [Gabriela Mafra]: https://github.com/bugarela
+[Informal Systems]: https://informal.systems
+[Interchain Foundation]: https://interchain.io/
+

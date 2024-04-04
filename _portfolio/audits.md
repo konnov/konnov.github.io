@@ -8,6 +8,11 @@ sidebar:
     image_alt: "logo"
   - title: "Role"
     text: "Security researcher"
+  - title: "Languages"
+    text: "Solidity"
+  - text: "Rust/Cosmwasm"
+  - text: "Golang/Cosmos SDK"
+  - text: "TLA+"
 ---
 
 I have a proven track record of submitting **valid** high and medium
