@@ -13,7 +13,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Leading the team of independent researchers and developing the tool"
   - title: "Language"
-    text: "Rust"
+    text: "Rust+TypeScript"
   - title: "License"
     text: "Apache 2.0"
 #gallery:
