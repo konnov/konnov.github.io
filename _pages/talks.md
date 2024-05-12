@@ -5,6 +5,10 @@ permalink: /talks/
 title: Talks and Lectures
 ---
 
+- Finding Bugs for Fun & Profit with Informal Systems. A 4-hour workshop at
+  Cosmoverse 2023. Istanbul, Türkiye, October 2023. Together with Tesnim
+  Abdellatif and Josef Widder.
+
 - Lectures on Quint, TLA+, and Apalache at the VTSA'23 summer school.
   [Lecture material](https://konnov.github.io/vtsa23/). Nancy, France,
   August 2023.
