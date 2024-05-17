@@ -9,7 +9,7 @@ title: Research
  - [x] **2019** Senior Research Scientist at [Interchain Foundation][]
  - [x] **2018-2019** Researcher at [Inria Nancy -- Veridis Team][]
  - [x] **2011-2018** Researcher and assistant professor at [TU Wien -- Forsyte][]
- - [x] **2003-2011** PhD student and Researcher at [Lomonosov Moscow State University][]: 
+ - [x] **2003-2011** PhD student and Researcher at [Lomonosov Moscow State University][]
 
 ### Past research & open source projects
 
@@ -26,37 +26,30 @@ title: Research
 
 ### Publications
 
- * See my publications at [ORCID](https://orcid.org/0000-0001-6629-3377),
-    [dblp](https://dblp.org/pers/hd/k/Konnov_0001:Igor),
-    [Google Scholar](https://scholar.google.at/citations?user=K6OSiNYAAAAJ&hl=en),
-    or [Veridis page](https://team.inria.fr/veridis/konnov/papers/) 
- * [Habilitation thesis](./doc/konnov-habil19.pdf) submitted to
-    the [Faculty of Inforfmatics](https://informatics.tuwien.ac.at/)
-    of [TU Wien](https://tuwien.at) in 2018,
+ * See my publications at [ORCID][], [dblp][], [Google Scholar][],
+   or [Veridis page][] 
+ * [Habilitation thesis][] submitted to
+    the [Faculty of Inforfmatics][] of [TU Wien][] in 2018,
     defended in October 2019.
 
 ### Conference organization
 
- - Co-Chair of [CONCUR 2020](https://concur2020.forsyte.at/) with
-   [Laura Kovacs](https://informatics.tuwien.ac.at/people/laura-kovacs)
+ - Co-Chair of [CONCUR 2020][] with [Laura Kovacs][]
  - More in my [CV][]
 
-### PhD students
+### PhD Alumni
 
- * [Jure Kukovec](https://forsyte.at/people/kukovec/)
+ * Dr.<sup>in</sup> [Marijana Lazić][]
+ * Dr. [Thanh-Hai Tran][]
+ * Dr. [Jure Kukovec][]
 
-### Alumni
-
- * Dr. [Thanh-Hai Tran](https://forsyte.at/people/tran/)
- * Dr.<sup>in</sup> [Marijana Lazić](https://www7.in.tum.de/~lazic/)
- 
 ### Academic and non-academic profiles:
 
- * [ORCID](https://orcid.org/0000-0001-6629-3377)
- * [Google Scholar](https://scholar.google.at/citations?user=K6OSiNYAAAAJ&hl=en)
- * [LinkedIn](https://www.linkedin.com/in/igor-konnov-7683241/)
- * [DBLP](https://dblp.org/pers/hd/k/Konnov_0001:Igor)
- * [ResearchGate](https://www.researchgate.net/profile/Igor_Konnov2)
+ * [ORCID][]
+ * [Google Scholar][]
+ * [LinkedIn][]
+ * [DBLP][]
+ * [ResearchGate][]
 
 [TLA+]: https://lamport.azurewebsites.net/tla/tla.html
 [Quint]: https://github.com/informalsystems/quint
@@ -69,3 +62,21 @@ title: Research
 [ByMC]: https://github.com/konnov/bymc
 [ICT-103 Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN
 [CV]: ./doc/konnov-cv.pdf
+[ORCID]: https://orcid.org/0000-0001-6629-3377
+[dblp]: https://dblp.org/pers/hd/k/Konnov_0001:Igor
+[Google Scholar]: https://scholar.google.at/citations?user=K6OSiNYAAAAJ&hl=en
+[Veridis page]: https://team.inria.fr/veridis/konnov/papers/
+[Habilitation thesis]: {{ site.baseurl }}/doc/konnov-habil19.pdf
+[Faculty of Inforfmatics]: https://informatics.tuwien.ac.at/
+[TU Wien]: https://tuwien.at
+[CONCUR 2020]: https://concur2020.forsyte.at/
+[Laura Kovacs]: https://informatics.tuwien.ac.at/people/laura-kovacs
+[Jure Kukovec]: https://forsyte.at/people/kukovec/
+[Thanh-Hai Tran]: https://forsyte.at/people/tran/
+[Marijana Lazić]: https://www7.in.tum.de/~lazic/
+[Thanh-Hai Tran]: https://forsyte.at/people/tran/
+[ORCID]: https://orcid.org/0000-0001-6629-3377
+[Google Scholar]: https://scholar.google.at/citations?user=K6OSiNYAAAAJ&hl=en
+[LinkedIn]: https://www.linkedin.com/in/igor-konnov-7683241/
+[DBLP]: https://dblp.org/pers/hd/k/Konnov_0001:Igor
+[ResearchGate]: https://www.researchgate.net/profile/Igor_Konnov2

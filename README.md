@@ -62,24 +62,24 @@ Let me know, if you have projects that require following expertise:
 ### Lecture Slides and Talks
 
 - Lectures on Quint, TLA+, and Apalache at the VTSA'23 summer school.
-  [Lecture material](https://konnov.github.io/vtsa23/) (August 2023)
+  [Lecture material][] (August 2023)
 
-- [Short talk on Quint](https://www.youtube.com/watch?v=OZIX8rs-kOA&t=806s) (June 2023)
+- [Short talk on Quint][] (June 2023)
 
-- [Apalache: symbolic model checker for TLA+](https://www.youtube.com/watch?v=Ml7d_3vlH88).
+- [Apalache: symbolic model checker for TLA+][].
   Extended version of the talk at TLA+ tutorial, co-located with DISC 2021
   (October 2021).
 
-- [How TLA+ and Apalache Helped Us to Design the Tendermint Light Client](https://www.crowdcast.io/e/interchain-conversations-II/38).
+- [How TLA+ and Apalache Helped Us to Design the Tendermint Light Client][].
     Interchain Conversations 2020 (December 2020).
 
-- [Model-based testing with TLA+ and Apalache](https://youtu.be/aveoIMphzW8), with Andrey Kupriyanov.
+- [Model-based testing with TLA+ and Apalache][], with Andrey Kupriyanov.
   TLA+ Community Event 2020 (October 2020).
 
-- [Type inference for TLA+ in Apalache](https://youtu.be/hnp25hmCMN8), with Jure Kukovec.
+- [Type inference for TLA+ in Apalache][], with Jure Kukovec.
   TLA+ Community Event 2020 (October 2020).
 
-- [Formal Spec and Model Checking of the Tendermint Blockchain Synchronization Protocol](https://youtu.be/h2Ovc1KWlXM)
+- [Formal Spec and Model Checking of the Tendermint Blockchain Synchronization Protocol][]
   2nd Workshop on Formal Methods for Blockchains (July 2020).
 
  * Tutorial at DISCOTEC/FORTE 2020,
@@ -103,14 +103,11 @@ Let me know, if you have projects that require following expertise:
  * Co-Chair of [CONCUR 2020](https://concur2020.forsyte.at/) with
  [Laura Kovacs](https://informatics.tuwien.ac.at/people/laura-kovacs)
 
-### PhD students
+### PhD Alumni
 
- * [Jure Kukovec](https://forsyte.at/people/kukovec/)
-
-### Alumni
-
- * [Dr. Thanh-Hai Tran](https://forsyte.at/people/tran/)
  * [Dr. Marijana Lazić](https://www7.in.tum.de/~lazic/)
+ * [Dr. Thanh-Hai Tran](https://forsyte.at/people/tran/)
+ * [Dr. Jure Kukovec](https://forsyte.at/people/kukovec/)
  
 ### Academic and non-academic profiles:
 
@@ -122,7 +119,7 @@ Let me know, if you have projects that require following expertise:
 
 ### CV
 
-[Curriculum Vitae](/doc/konnov-cv.pdf), February 2024
+[Curriculum Vitae][], February 2024
 
 ### Required sections
 
@@ -130,6 +127,7 @@ Let me know, if you have projects that require following expertise:
  * [Datenschutz][]
 
 
+[Curriculum Vitae]: {{ site.baseurl }}/doc/konnov-cv.pdf
 [TLA+]: https://lamport.azurewebsites.net/tla/tla.html
 [Quint]: https://github.com/informalsystems/quint
 [Informal Systems]: https://informal.systems
@@ -145,3 +143,10 @@ Let me know, if you have projects that require following expertise:
 [Impressum]: ./impressum.md
 [Datenschutz]: ./datenschutz.md
 [Stellar Community Fund]: https://communityfund.stellar.org/
+[Lecture material]: {{ site.baseurl }}/vtsa23/
+[Short talk on Quint]: https://www.youtube.com/watch?v=OZIX8rs-kOA&t=806s
+[Apalache: symbolic model checker for TLA+]: https://www.youtube.com/watch?v=Ml7d_3vlH88
+[How TLA+ and Apalache Helped Us to Design the Tendermint Light Client]: https://www.crowdcast.io/e/interchain-conversations-II/38
+[Model-based testing with TLA+ and Apalache]: https://youtu.be/aveoIMphzW8
+[Type inference for TLA+ in Apalache]: https://youtu.be/hnp25hmCMN8
+[Formal Spec and Model Checking of the Tendermint Blockchain Synchronization Protocol]: https://youtu.be/h2Ovc1KWlXM
