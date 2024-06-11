@@ -12,7 +12,7 @@ You can always reach me by writing a message on
 
 |  May         |  June        | July | August | September |
 | ------------ | ------------ | ---- | ------ | --------- |
-| Fully booked | Fully booked | 50%  | 50%    | 50%       |
+| Fully booked | Fully booked | 75%  | 75%    | 75%       |
 
 <br>
 <br>
