@@ -11,9 +11,9 @@ sidebar:
   - title: "Role"
     text: "Team Lead"
   - title: "Responsibilities"
-    text: "Leading the team of independent researchers and developing the tool"
+    text: "Leading the team of independent researchers, developing the tool"
   - title: "Language"
-    text: "Rust+TypeScript"
+    text: "TypeScript+Rust"
   - title: "License"
     text: "Apache 2.0"
 #gallery:
@@ -25,13 +25,16 @@ sidebar:
 Solarkraft is a runtime monitoring tool for Stellar [Soroban][], powered by
 [TLA+][] and [Apalache][].
 
-The project is in the boostrapping phase now. Preparing for Warp 5.
+We have finished the activation phase and developed an MVP. See a demo by Jure
+Kukovec:
+
+{% include youtube.html id="E99TNzTHLXI" %}
+
+<br>
 
 We are grateful to the [Stellar Community Fund][] for supporting our
-project via the Activation Award. Check our [3-minute pitch][].  If it has
+project via the Activation Award. Check our [3-minute pitch][]. If it has
 caught your attention, read the [SCF24 Application][].
-
-<!-- [![My talk on Quint at Gateway to Cosmos](https://img.youtube.com/vi/Ogdy4AHfMRA/maxresdefault.jpg)](https://www.youtube.com/watch?v=Ogdy4AHfMRA) -->
 
 {% include youtube.html id="Ogdy4AHfMRA" %}
 

@@ -10,9 +10,13 @@ You can always reach me by writing a message on
 `igor` *at* `konnov`.`phd` or
 `igor.konnov` *at* `gmail`.`com`.
 
-|  May         |  June        | July | August | September |
-| ------------ | ------------ | ---- | ------ | --------- |
-| Fully booked | Fully booked | 75%  | 75%    | 75%       |
+**Availability**
+
+|  June       | July       | August      | September  |
+|:-----------:|:----------:|:-----------:|:----------:|
+| 🔨🔨🔨🔨🔨  | 🔨🔨🔨🔨😎 | 🔨🔨🔨🔨😎  | 🔨🔨🔨🔨😎 |
+
+Legend: 🔨 is 1 busy day per week, 😎 is 1 free day per week (bookable)
 
 <br>
 <br>
