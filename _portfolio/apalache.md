@@ -28,6 +28,10 @@ Lamport's page on TLA<sup>+</sup>][]:
 > are finite.  The tool leverages the SMT solver Z3, from Microsoft
 > Research.
 
+The canonical version of Apalache is currently hosted under the Github
+organization [github.com/apalache-mc](https://github.com/apalache-mc/).
+It is managed by [Informal Systems][] and myself.
+
 I started the [research project on Apalache][] at TU Wien in 2016, after
 receiving the grant of 539k EUR from [Vienna Science and Technology
 Fund][]. In 2018, I continued research on Apalache at [VeriDis][], Inria
@@ -37,15 +41,13 @@ engineers have contributed to Apalache, including: [Thanh Hai Tran][],
 [Shon Feder][], [Jure Kukovec][], [Gabriela Mafra][], [Rodrigo Otoni][],
 [Thomas Pani][], [Andrey Kupriyanov][], and [Philip Offtermatt][].
 
-Apalache is currently hosted at Informal Systems.
-
 <!-- [![Apalache Tutorial](https://img.youtube.com/vi/NXLJoUKJnDQ/maxresdefault.jpg)](https://www.youtube.com/NXLJoUKJnDQ?t=5596) -->
 
 {% include youtube.html id="NXLJoUKJnDQ" %}
 
 
 [Leslie Lamport's page on TLA<sup>+</sup>]: https://lamport.azurewebsites.net/tla/tools.html
-[Apalache Github]: https://github.com/informalsystems/apalache
+[Apalache Github]: https://github.com/apalache-mc/apalache
 [Vienna Science and Technology Fund]: https://www.wwtf.at/index.php?lang=EN
 [research project on Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/
 [VeriDis]: https://team.inria.fr/veridis/
