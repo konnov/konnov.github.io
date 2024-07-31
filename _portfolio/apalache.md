@@ -29,8 +29,8 @@ Lamport's page on TLA<sup>+</sup>][]:
 > Research.
 
 The canonical version of Apalache is currently hosted under the Github
-organization [github.com/apalache-mc](https://github.com/apalache-mc/).
-It is managed by [Informal Systems][] and myself.
+organization [github.com/apalache-mc][]. It is managed by [Informal Systems][]
+and myself.
 
 I started the [research project on Apalache][] at TU Wien in 2016, after
 receiving the grant of 539k EUR from [Vienna Science and Technology
@@ -61,4 +61,4 @@ engineers have contributed to Apalache, including: [Thanh Hai Tran][],
 [Gabriela Mafra]: https://github.com/bugarela
 [Informal Systems]: https://informal.systems
 [Interchain Foundation]: https://interchain.io/
-
+[github.com/apalache-mc]: https://github.com/apalache-mc/

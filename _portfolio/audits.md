@@ -19,10 +19,14 @@ sidebar:
   - text: "Cosmos"
 ---
 
-I have a proven track record of submitting **valid** high and medium
-findings at [Code4rena][], [Sherlock][], and [Hackerone][], individually,
-as well as in a team. In addition to that, I was conducting several Web3
-protocol audits while working at [Informal Systems][]. Need a proof? DM.
+**Protocol specification and verification.** For the most recent work, see
+my blogpost on [Specification and model checking of BFT consensus by Matter
+Labs][MLbft].
+
+**Code audits.** I have a proven track record of submitting **valid** high and
+medium findings at [Code4rena][], [Sherlock][], and [Hackerone][], individually, as
+well as in a team. In addition to that, I was conducting several Web3 protocol
+audits while working at [Informal Systems][]. Need a proof? DM.
 
 Given my expertise, I am flexible to help you with a range of activities
 along the stack/confidence axes:
@@ -37,8 +41,8 @@ along the stack/confidence axes:
 
   - Manual code review
   - Fuzzing, e.g., using Medusa
-  - Protocol specification and analysis, e.g., in TLA<sup>+</sup>
-  - Model checking, e.g., using TLC and Apalache
+  - Protocol specification and analysis, e.g., in TLA<sup>+</sup> and [Quint][]
+  - Model checking, e.g., using TLC and [Apalache][]
   - Math proofs
 
 If you think that your project is too big for one person, or you are short
@@ -50,4 +54,6 @@ peers.
 [Code4rena]: https://code4rena.com/
 [Sherlock]: https://www.sherlock.xyz/
 [Hackerone]: https://www.hackerone.com/
-
+[MLbft]: https://protocols-made-fun.com/consensus/matterlabs/quint/specification/modelchecking/2024/07/29/chonkybft.html
+[Quint]: https://quint-lang.org/
+[Apalache]: https://github.com/apalache-mc/apalache
