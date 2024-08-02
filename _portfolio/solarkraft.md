@@ -9,7 +9,7 @@ sidebar:
   - title: Website
     nav: solarkraft
   - title: "Role"
-    text: "Team Lead"
+    text: "Team Lead & Developer"
   - title: "Responsibilities"
     text: "Leading the team of independent researchers, developing the tool"
   - title: "Language"
