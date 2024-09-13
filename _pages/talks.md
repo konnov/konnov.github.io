@@ -5,6 +5,11 @@ permalink: /talks/
 title: Talks and Lectures
 ---
 
+- Apalache Tutorial [[pdf]](https://conf.tlapl.us/2024-fm/slides-konnov.pdf) at
+  [TLA+ Community Meeting 2024][], co-located with Formal Methods 2024, Milan,
+  Italy, September 2024.
+  
+
 - Finding Bugs for Fun & Profit with Informal Systems. A 4-hour workshop at
   Cosmoverse 2023. Istanbul, Türkiye, October 2023. Together with Tesnim
   Abdellatif and Josef Widder.
@@ -49,3 +54,4 @@ More talks to be found in my [CV][].
 [Formal Spec and Model Checking of the Tendermint Blockchain Synchronization Protocol]: https://youtu.be/h2Ovc1KWlXM
 [FORTE20 - pdfs + video]: https://www.discotec.org/2020/tutorials#parameterized-verification-with-byzantine-model-checker
 [VMCAI20 - pdf]: {{ site.baseurl }}/doc/konnov-vmcai20-school.pdf
+[TLA+ Community Meeting 2024]: https://conf.tlapl.us/2024-fm/
