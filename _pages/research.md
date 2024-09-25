@@ -5,18 +5,21 @@ permalink: /research/
 title: Research
 ---
 
+ - [ ] **2024-present** Independent security & formal methods researcher
  - [x] **2020-2023** Principal Research Scientist at [Informal Systems][]
  - [x] **2019** Senior Research Scientist at [Interchain Foundation][]
  - [x] **2018-2019** Researcher at [Inria Nancy -- Veridis Team][]
  - [x] **2011-2018** Researcher and assistant professor at [TU Wien -- Forsyte][]
  - [x] **2003-2011** PhD student and Researcher at [Lomonosov Moscow State University][]
 
+### Research & open source projects
+
+ - [Apalache][]:
+   Symbolic model checker for TLA+ and Quint (2016-present)
+
 ### Past research & open source projects
 
  - [Quint][]: Executable specification language (2021-2023)
-
- - [Apalache][]:
-   Symbolic model checker for TLA+ and Quint (2016-2023)
 
  - [ByMC][]: parameterized model checker for threshold-guarded
    fault-tolerant distributed algorithms

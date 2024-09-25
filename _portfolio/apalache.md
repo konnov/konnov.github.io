@@ -12,6 +12,7 @@ sidebar:
     text: "Principal investigator"
   - text: "Project lead"
   - text: "Product owner"
+  - text: "Maintainer"
   - title: "Language"
     text: "Scala"
   - title: "License"
@@ -29,8 +30,13 @@ Lamport's page on TLA<sup>+</sup>][]:
 > Research.
 
 The canonical version of Apalache is currently hosted under the Github
-organization [github.com/apalache-mc][]. It is managed by [Informal Systems][]
-and myself.
+organization [github.com/apalache-mc][].
+
+Currently, Apalache is not funded by any organization. See [FUNDING.md][] for
+the past funding. The project is de-facto funded by its current maintainers and
+contributors, including [Jure Kukovec][], [Thomas Pani][], and myself. If you
+would like to sponsor the project, please contact us, or simply sponsor us on
+GitHub by clicking the "Sponsor" button on the [Github page][Apalache Github]!
 
 I started the [research project on Apalache][] at TU Wien in 2016, after
 receiving the grant of 539k EUR from [Vienna Science and Technology
@@ -38,12 +44,10 @@ Fund][]. In 2018, I continued research on Apalache at [VeriDis][], Inria
 Nancy. From 2019 to 2023, I was leading industrial adoption of Apalache at
 [Interchain Foundation][] and [Informal Systems][]. Many researchers and
 engineers have contributed to Apalache, including: [Thanh Hai Tran][],
-[Shon Feder][], [Jure Kukovec][], [Gabriela Mafra][], [Rodrigo Otoni][],
+[Shon Feder][], [Jure Kukovec][], [Gabriela Moreira][], [Rodrigo Otoni][],
 [Thomas Pani][], [Andrey Kupriyanov][], and [Philip Offtermatt][].
 
-<!-- [![Apalache Tutorial](https://img.youtube.com/vi/NXLJoUKJnDQ/maxresdefault.jpg)](https://www.youtube.com/NXLJoUKJnDQ?t=5596) -->
-
-{% include youtube.html id="NXLJoUKJnDQ" %}
+![funding history](/assets/images/apalache-funding.png)
 
 
 [Leslie Lamport's page on TLA<sup>+</sup>]: https://lamport.azurewebsites.net/tla/tools.html
@@ -55,10 +59,11 @@ engineers have contributed to Apalache, including: [Thanh Hai Tran][],
 [Thomas Pani]: https://thpani.net/ 
 [Rodrigo Otoni]: https://swystems.usi.ch/author/rodrigo-otoni/
 [Thanh Hai Tran]: https://scholar.google.com/citations?user=2JrhrNcAAAAJ&hl=en
-[Jure Kukovec]: https://forsyte.at/people/kukovec/
+[Jure Kukovec]: https://www.linkedin.com/in/jure-kukovec/
 [Andrey Kupriyanov]: https://dblp.org/pid/05/7915.html
 [Shon Feder]: http://shonfeder.net/
-[Gabriela Mafra]: https://github.com/bugarela
+[Gabriela Moreira]: https://github.com/bugarela
 [Informal Systems]: https://informal.systems
 [Interchain Foundation]: https://interchain.io/
 [github.com/apalache-mc]: https://github.com/apalache-mc/
+[FUNDING.md]: https://github.com/apalache-mc/apalache/blob/main/FUNDING.md

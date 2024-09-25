@@ -24,6 +24,10 @@ following hypothesis:
 *Would engineers onboard to TLA<sup>+</sup> faster, when they are offered a
 syntax that looks more like a programming language?*
 
+In short, we believe that the answer is positive. For instance, see the recent
+blogpost on specification and model checking of [ChonkyBFT][chonky-blogpost]
+and [ZKsync Governance][zksync-gov].
+
 In addition to the alternative syntax, Quint offers several features that
 are expected by software engineers:
 
@@ -31,7 +35,7 @@ are expected by software engineers:
  - a VSCode plugin,
  - a testing framework and a randomized simulator.
 
-Quint was developed by [Shon Feder][], [Gabriela Mafra][], [Thomas Pani][],
+Quint was developed by [Shon Feder][], [Gabriela Moreira][], [Thomas Pani][],
 [Jure Kukovec][], and myself. It is maintained and further extended at
 Informal Systems.
 
@@ -43,6 +47,7 @@ Informal Systems.
 [Thomas Pani]: https://thpani.net/ 
 [Jure Kukovec]: https://forsyte.at/people/kukovec/
 [Shon Feder]: http://shonfeder.net/
-[Gabriela Mafra]: https://github.com/bugarela
+[Gabriela Moreira]: https://github.com/bugarela
 [Informal Systems]: https://informal.systems
-
+[chonky-blogpost]: https://protocols-made-fun.com/consensus/matterlabs/quint/specification/modelchecking/2024/07/29/chonkybft.html
+[zksync-gov]: https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html

@@ -9,9 +9,8 @@ sidebar:
   - title: Website
     nav: solarkraft
   - title: "Role"
-    text: "Team Lead & Developer"
-  - title: "Responsibilities"
-    text: "Leading the team of independent researchers, developing the tool"
+    text: "Developer/Researcher"
+  - text: "Team Lead (activation phase)"
   - title: "Language"
     text: "TypeScript+Rust"
   - title: "License"
@@ -23,10 +22,11 @@ sidebar:
 ---
 
 Solarkraft is a runtime monitoring tool for Stellar [Soroban][], powered by
-[TLA+][] and [Apalache][].
+[TLA+][] and [Apalache][]. We have finished the activation phase (call 24) at
+[Stellar Community Fund][] and continue with phase 1 (call 29). See the
+[Project page][Solarkraft-SCF] at SCF.
 
-We have finished the activation phase and developed an MVP. See a demo by Jure
-Kukovec:
+See a demo by Jure Kukovec:
 
 {% include youtube.html id="E99TNzTHLXI" %}
 
@@ -44,3 +44,4 @@ caught your attention, read the [SCF24 Application][].
 [Stellar Community Fund]: https://communityfund.stellar.org/
 [SCF24 Application]: https://dashboard.communityfund.stellar.org/scfawards/scf-24/informationcollection/suggestion/734
 [3-minute pitch]: https://www.youtube.com/watch?v=Ogdy4AHfMRA
+[Solarkraft-SCF]: https://communityfund.stellar.org/project/solarkraft
