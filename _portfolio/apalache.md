@@ -30,7 +30,8 @@ Lamport's page on TLA<sup>+</sup>][]:
 > Research.
 
 The canonical version of Apalache is currently hosted under the Github
-organization [github.com/apalache-mc][].
+organization [github.com/apalache-mc][]. To see successful applications of
+Apalache, check [Apalache examples][].
 
 Currently, Apalache is not funded by any organization. See [FUNDING.md][] for
 the past funding. The project is de-facto funded by its current maintainers and
@@ -51,6 +52,7 @@ engineers have contributed to Apalache, including: [Thanh Hai Tran][],
 
 
 [Leslie Lamport's page on TLA<sup>+</sup>]: https://lamport.azurewebsites.net/tla/tools.html
+[Apalache examples]: https://github.com/konnov/apalache-examples
 [Apalache Github]: https://github.com/apalache-mc/apalache
 [Vienna Science and Technology Fund]: https://www.wwtf.at/index.php?lang=EN
 [research project on Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/
