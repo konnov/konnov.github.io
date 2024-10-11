@@ -8,6 +8,8 @@ classes: wide
 
 {% include scammers.html %}
 
+I am a [borken link](http://no-such-link-exist-ever-in-life.org)
+
 You can always reach me by writing a message on
 `igor` *at* `konnov`.`phd` or
 `igor.konnov` *at* `gmail`.`com`.
