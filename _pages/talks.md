@@ -5,10 +5,14 @@ permalink: /talks/
 title: Talks and Lectures
 ---
 
+- Pragmatic bounded model checking for TLA+ with Apalache at 16<sup>th</sup>
+  International Conference on Verified Software: Theories, Tools, and Experiments
+  ([VSTTE24][]).
+  Prague, Czechia, October 2024.
+
 - Apalache Tutorial [[pdf]](https://conf.tlapl.us/2024-fm/slides-konnov.pdf) at
   [TLA+ Community Meeting 2024][], co-located with Formal Methods 2024, Milan,
   Italy, September 2024.
-  
 
 - Finding Bugs for Fun & Profit with Informal Systems. A 4-hour workshop at
   Cosmoverse 2023. Istanbul, Türkiye, October 2023. Together with Tesnim
@@ -55,3 +59,4 @@ More talks to be found in my [CV][].
 [FORTE20 - pdfs + video]: https://www.discotec.org/2020/tutorials#parameterized-verification-with-byzantine-model-checker
 [VMCAI20 - pdf]: {{ site.baseurl }}/doc/konnov-vmcai20-school.pdf
 [TLA+ Community Meeting 2024]: https://conf.tlapl.us/2024-fm/
+[VSTTE24]: https://www.soundandcomplete.org/vstte2024.html
