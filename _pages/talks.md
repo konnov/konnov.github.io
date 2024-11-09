@@ -5,6 +5,9 @@ permalink: /talks/
 title: Talks and Lectures
 ---
 
+- Specification and Model-checking of the ZKsync Governance Protocol
+  at [DeFi Security Summit 2024][]. Bangkok, Thailand, November 2024.
+
 - Pragmatic bounded model checking for TLA+ with Apalache at 16<sup>th</sup>
   International Conference on Verified Software: Theories, Tools, and Experiments
   ([VSTTE24][]).
@@ -60,3 +63,4 @@ More talks to be found in my [CV][].
 [VMCAI20 - pdf]: {{ site.baseurl }}/doc/konnov-vmcai20-school.pdf
 [TLA+ Community Meeting 2024]: https://conf.tlapl.us/2024-fm/
 [VSTTE24]: https://www.soundandcomplete.org/vstte2024.html
+[DeFi Security Summit 2024]: https://defisecuritysummit.org/
