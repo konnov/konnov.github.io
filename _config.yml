@@ -1,10 +1,10 @@
 domain: konnov.phd
 url: https://konnov.phd
 title: Igor Konnov
-og_image: /assets/images/igor-konnov23.png
+og_image: /assets/images/igor-devcon24-tiny.png
 author:
   bio: "**Independent** security and formal methods **researcher**"
-  avatar: "/assets/images/igor-konnov23.png"
+  avatar: "/assets/images/igor-devcon24-tiny.png"
   location: Vienna, Austria
 remote_theme: mmistakes/minimal-mistakes@4.24.0
 plugins:
