@@ -73,7 +73,7 @@ More talks to be found in my [CV][].
 [TLA+ Community Meeting 2024]: https://conf.tlapl.us/2024-fm/
 [VSTTE24]: https://www.soundandcomplete.org/vstte2024.html
 [DeFi Security Summit 2024]: https://defisecuritysummit.org/
-[DevCon24]: https://devcon.org/en/
+[DevCon 2024]: https://devcon.org/en/
 [DevCon24-3SF]: https://www.youtube.com/watch?v=9IqwdXnVnsE
 [DevCon24-panel]: https://www.youtube.com/live/K5jLZJfX2a0?si=Y9CXV9yPPgdYcYPf
 [DSS24-talk]: https://youtu.be/dMp6jJVuGLI?t=11107
