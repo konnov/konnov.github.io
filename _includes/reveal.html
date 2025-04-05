@@ -1,0 +1,13 @@
+<script>                                                                                                                             
+    async function r() {
+        const hb = await crypto.subtle.digest("SHA-256", new TextEncoder().encode('1234'));
+        const ha = Array.from(new Uint8Array(hb));
+        const p = [
+            0x42, -0x3e, -0x03, 0x30, 0x4f, -0x80, -0x6e, 0x18, -0x04, 0x43,
+            -0x6e, -0x32, -0x7d, -0x35, -0xbb, -0x2f, -0x66, -0x05, 0x0c, -0x90
+        ];
+        const o = Array.from({ length: p.length }, (_, i) => (p[i] + ha[i]) % 0xff);
+        document.getElementById('xyz5232').innerHTML =
+            '<p>' + String.fromCharCode(...o) + '</p>';
+    }
+</script>
