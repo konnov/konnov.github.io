@@ -1,8 +1,7 @@
 ---
 title: New developments in Solarkraft - SCF 29
 description: >-
-  We have published the report on model checking of accountabilit in the 3-slot finality
-  protocol for Ethereum Foundation...
+  We have finished phase 1 of the work on Solarkraft...
 date: 2024-12-31 23:00:00 +0200
 categories: [service]
 tags: [tool,grant,development,stellar,runtime monitoring,stellar]
