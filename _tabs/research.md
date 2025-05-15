@@ -6,6 +6,9 @@ title: Research
 ---
 
  - [ ] **2024-present** Independent security & formal methods researcher
+   - [x] Three projects with [Matter Labs][] (2024&ndash;2025)
+   - [x] Grant from [Ethereum Foundation][] (2024)
+   - [x] Grant from [Stellar Community Fund][] (2024)
  - [x] **2020-2023** Principal Research Scientist at [Informal Systems][]
  - [x] **2019** Senior Research Scientist at [Interchain Foundation][]
  - [x] **2018-2019** Researcher at [Inria Nancy -- Veridis Team][]
@@ -14,17 +17,16 @@ title: Research
 
 ### Research & open source projects
 
- - [Apalache][]:
-   Symbolic model checker for TLA+ and Quint (2016-present)
+ - [ ] [Apalache][]: Symbolic model checker for TLA+ and Quint (2016-present)
 
 ### Past research & open source projects
 
- - [Quint][]: Executable specification language (2021-2023)
+ - [x] [Quint][]: Executable specification language (2021-2023)
 
- - [ByMC][]: parameterized model checker for threshold-guarded
+ - [x] [ByMC][]: parameterized model checker for threshold-guarded
    fault-tolerant distributed algorithms
 
- - The project [ICT-103 Apalache][]
+ - [x] The project [ICT-103 Apalache][]
    supported by the Vienna Science and Technology Fund
 
 ### Publications
@@ -55,13 +57,13 @@ title: Research
  * [ResearchGate][]
 
 [TLA+]: https://lamport.azurewebsites.net/tla/tla.html
-[Quint]: https://github.com/informalsystems/quint
+[Quint]: {{ 'quint/' | relative_url }}
+[Apalache]: {{ 'apalache' | relative_url }}
 [Informal Systems]: https://informal.systems
 [Inria Nancy -- Veridis Team]: https://team.inria.fr/veridis/konnov/
 [Interchain Foundation]: https://interchain.io/
 [TU Wien -- Forsyte]: https://forsyte.at/people/konnov/
 [Lomonosov Moscow State University]: https://www.msu.ru/en/index.html
-[Apalache]: https://github.com/apalache-mc/apalache
 [ByMC]: https://github.com/konnov/bymc
 [ICT-103 Apalache]: https://www.wwtf.at/funding/programmes/ict/ICT15-103/index.php?lang=EN
 [CV]: {{ 'assets/doc/konnov-cv.pdf' | relative_url }}
@@ -83,3 +85,6 @@ title: Research
 [LinkedIn]: https://www.linkedin.com/in/igor-konnov-7683241/
 [DBLP]: https://dblp.org/pers/hd/k/Konnov_0001:Igor
 [ResearchGate]: https://www.researchgate.net/profile/Igor_Konnov2
+[Matter Labs]: https://matter-labs.io/
+[Ethereum Foundation]: https://ethereum.foundation/
+[Stellar Community Fund]: https://communityfund.stellar.org/
