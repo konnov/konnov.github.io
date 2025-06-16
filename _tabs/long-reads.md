@@ -2,7 +2,7 @@
 # the default layout is 'page'
 icon: fas fa-info-circle
 order: 4
-title: Long Reads
+title: Protocol Made Fun
 ---
 
 I am also writing long technical blog posts with my friends at [Protocols Made
